@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# Fine-tuning text-to-image diffusion models for personalization and subject-driven generation
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop you will get familiar with different fine-tuning techniques for text-to-image models, and learn how to easily teach a diffusion model a concept of your choosing  (special style, a pet, faces etc) with as little as 3 images depicting your concept. 
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/f9FWJ9UjZ-U)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and {your GitHub handler}
