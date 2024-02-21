@@ -1,0 +1,9 @@
+transformers
+diffusers
+peft
+accelerate
+datasets
+torch
+torchvision
+bitsandbytes
+prodigy
