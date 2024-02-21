@@ -1,6 +1,6 @@
 
 # Fine-tuning text-to-image diffusion models for personalization and subject-driven generation
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: [Personalization of Diffusion Models]("workshop/Personalization of Diffusion Models-PyLadies Amsterdam-Feb 29.pptx)
 
 ## Workshop description
 During the workshop you will get familiar with different fine-tuning techniques for text-to-image models, and learn how to easily teach a diffusion model a concept of your choosing  (special style, a pet, faces etc) with as little as 3 images depicting your concept. 
@@ -17,4 +17,4 @@ Do not forget to indicate Python version and any other tools
 Re-watch [this YouTube stream](https://www.youtube.com/live/f9FWJ9UjZ-U)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @linoytsaban
