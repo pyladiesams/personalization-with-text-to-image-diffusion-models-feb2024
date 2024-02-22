@@ -11,7 +11,10 @@ Do not forget to indicate Python version and any other tools
 
 ## Usage
 * Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+* Start jupyter lab and navigate to the workshop folder
+* Open the first workshop notebook
+* * [Option1] Install requirements with `pip install -r requirements.txt`
+* * [Option2] Run the `Setup` cells in the notebook 
 
 ## Video record
 Re-watch [this YouTube stream](https://www.youtube.com/live/f9FWJ9UjZ-U)
