@@ -7,7 +7,7 @@ During the workshop you will get familiar with different fine-tuning techniques 
 
 ## 🛠️ Requirements
 Python >= 3.10, acquaintance with Diffusion models, Text-to-Image models. 
-> **NOTE** 💡 While we will briefly go over diffusion models and |  
+> **NOTE** 💡 While we will briefly go over diffusion models and 
 specifically Stable Diffusion, we will not get into detail, and assume some familiarity with diffusion process and architecture of stable diffusion models.
 
 > **TIP** 💌 If you're not familiar with diffusion models but interested in doing this workshop, checkout this (free & open sourced) [introductory diffusion class](https://github.com/huggingface/diffusion-models-class) 🤓
